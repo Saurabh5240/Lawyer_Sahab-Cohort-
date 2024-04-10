@@ -28,7 +28,7 @@ The document analyser can take any type of document and go throught the document
 ![WhatsApp Image 2024-04-09 at 2 05 49 PM](https://github.com/Saurabh5240/Lawyer_Sahab-Cohort-/assets/129985013/e4494601-3171-4533-913c-e8e86340ad5b)
 
 ### Legal Chatbot:
-This chat bot is trained using Llama-2 and the data set which we have used is IPC, CrPC, Military laws, Personal laws and Constitutions. It is law specific chatbot and can only answer legal queires.
+This chat bot is trained using Llama-2 & Botpress and the data set which we have used is IPC, CrPC, Military laws, Personal laws and Constitutions. It is law specific chatbot and can only answer legal queires.
 ![WhatsApp Image 2024-04-09 at 2 05 49 PM (1)](https://github.com/Saurabh5240/Lawyer_Sahab-Cohort-/assets/129985013/de0ef4fd-9d40-43ed-a69e-bac35dc29c1b)
 
 ### Legal Notice Writing bot
