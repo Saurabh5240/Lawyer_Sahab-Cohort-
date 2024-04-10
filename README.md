@@ -1,5 +1,4 @@
 # Lawyer_Sahab-Cohort-
-(Created for Hackathon - 8.0)
 ### Relax Guys, Let us handle
 ## Webpage:
 A webpage which provides legal services and can write legal notices
